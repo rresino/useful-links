@@ -14,3 +14,7 @@ Personal recopilation of tools (websites), totally open to share or suggest new 
 ## Json Tools
 - [Transform](https://transform.tools/): Useful tool to auto-transform json to code or anything you need.
 
+## Diagrams and graphs
+
+- [Structurizr](https://structurizr.com/): Create diagrams from "code".Custom DSL to define complex diagrams and export it to couple of formats.
+- [Diagrams](https://diagrams.mingrammer.com/): Diagram as Code. Create system architectures with python code.
